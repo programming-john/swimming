@@ -1,11 +1,10 @@
-body
-{
+body{
   color:"red";
   font-family:"verdana";
+  background="ocean.jpg";
 }
 table{
   color:"color:#cc0099";
   bgcolor:"powderblue";
-  background="ocean.jpg";
 }
   
