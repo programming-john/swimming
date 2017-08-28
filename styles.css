@@ -4,8 +4,8 @@ body{
   background="ocean.jpg";
 }
 table{
-  color:"color:#cc0099";
-  bgcolor:"powderblue";
+  color:#cc0099;
+  bgcolor:"powdeblue";
   border="1";
   width:"100%";
 }
