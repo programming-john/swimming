@@ -1,2 +1,2 @@
 # swimming
-My main hobby.
+https://github.com/programming-john/swimming
