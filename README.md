@@ -1,2 +1,2 @@
 # swimming
-https://github.com/programming-john/swimming
+https://programming-john.github.io/swimming/
