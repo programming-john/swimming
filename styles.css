@@ -6,5 +6,7 @@ body{
 table{
   color:"color:#cc0099";
   bgcolor:"powderblue";
+  border="1";
+  width:"100%";
 }
   
