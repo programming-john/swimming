@@ -4,6 +4,7 @@ h1{
 }
 body{
 	background-image: url("bigspook.jpg");
+	border-radius: 300px;
 }
 p{
 	font-size: 125%;
