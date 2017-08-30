@@ -19,6 +19,7 @@ img{
 table{
 	background-color: lightblue;
 	border: 2px solid black;
+	width: 100%;
 }
 
 body{
@@ -26,8 +27,3 @@ body{
   font-family: verdana;
   background="ocean.jpg";
 }
-table{
-  color:"#cc0099";
-  bgcolor:"powdeblue";
-  border="1";
-  width:"100%";
