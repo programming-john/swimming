@@ -27,11 +27,11 @@ table{
 }
 
 body{
-  color: red;
-  font-family: verdana;
-  background="ocean.jpg";
+  	color: red;
+  	font-family: verdana;
+  	background="ocean.jpg";
 }
 img{
-  width: 400px;
-  height: 375px;
+  	width: 400px;
+  	height: 375px;
 }
